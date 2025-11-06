@@ -1,5 +1,4 @@
 # EXCEL
-NEO Store 2025
 # NEO Store Annual Sales Analysis (2025)
 
 An end‑to‑end Excel project that cleans, processes, analyzes, and visualizes retail sales data to produce an interactive dashboard with slicers.
